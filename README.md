@@ -191,6 +191,8 @@ Credits
 </section>
 </main>
 
+<!-- copy and paste. Modify height and width if desired. --><iframe class="tscplayer_inline embeddedObject" name="tsc_player" scrolling="no" frameborder="0" type="text/html" style="overflow:hidden;" src="https://www.screencast.com/users/deivassigamany/folders/Octopus/media/f28b12be-132a-47f5-ac55-61e57702a0a8/embed" height="720" width="1280" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+
 
 
 ## https://octopus.com/docs/getting-started
