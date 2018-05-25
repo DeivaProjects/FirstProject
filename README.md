@@ -1,12 +1,12 @@
 # https://octopus.com/docs/getting-started
-# https://demo.octopus.com/
+# Demo https://demo.octopus.com/
 
 <main>
 <header class="stripe stripe-blue stripe-narrow">
 <div class="container">
 <div class="row">
 <div class="col-sm-9">
-<div class="like-h2">Octopus Deploy Documentation</div>
+<div class="like-h2"><h1>Octopus Deploy Documentation</h1></div>
 </div>
 <div class="col-sm-3">
 <div class="text-right">
@@ -28,24 +28,6 @@
 <div class="col-sm-9 col-sm-push-3">
 <article id="doc-content" class="paper" style="padding-bottom: 100px; min-height: 1000px;">
 <header>
-<div class="dropdown pull-right">
-<button class="btn btn-success dropdown-toggle" type="button" id="versionSelector" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-Version: Latest
-<span class="caret"></span>
-</button>
-<ul class="dropdown-menu" aria-labelledby="versionSelector">
-<li class="disabled">
-<a href="/docs/getting-started">Latest</a>
-</li>
-<li role="separator" class="divider"></li>
-<li>
-<a href="https://legacydocs.octopus.com" rel="nofollow">
-Previous Versions
-<i class="fa fa-external-link" style="margin-left: 5px;"></i>
-</a>
-</li>
-</ul>
-</div>
 <h1>Getting Started</h1>
 <div style="margin: 10px 0; color: #aaa" class="small">Last updated <time datetime="2018-05-21T01:21:27.1667544+00:00">4 days ago</time></div>
 </header>
@@ -205,7 +187,6 @@ Credits
 </div>
 </aside>
 <div>
-<a href="https://github.com/OctopusDeploy/docs/blob/master/docs/getting-started.md" class="small" style="color: #888; margin-left: 30px;" rel="nofollow">Edit this page on GitHub</a>
 </div>
 </div>
 </div>
