@@ -192,3 +192,4 @@ Credits
 </main>
 # https://octopus.com/docs/getting-started
 # https://demo.octopus.com/
+# https://www.youtube.com/channel/UCURDSDCwx9ZiCMcLdc8d6Uw
