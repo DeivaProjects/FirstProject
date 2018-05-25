@@ -1,6 +1,3 @@
-# https://octopus.com/docs/getting-started
-# Demo https://demo.octopus.com/
-
 <main>
 <header class="stripe stripe-blue stripe-narrow">
 <div class="container">
@@ -28,7 +25,7 @@
 <div class="col-sm-9 col-sm-push-3">
 <article id="doc-content" class="paper" style="padding-bottom: 100px; min-height: 1000px;">
 <header>
-<h1>Getting Started</h1>
+<h3>Getting Started</h3>
 <div style="margin: 10px 0; color: #aaa" class="small">Last updated <time datetime="2018-05-21T01:21:27.1667544+00:00">4 days ago</time></div>
 </header>
 <p>Welcome!</p>
@@ -193,3 +190,5 @@ Credits
 </div>
 </section>
 </main>
+# https://octopus.com/docs/getting-started
+# https://demo.octopus.com/
